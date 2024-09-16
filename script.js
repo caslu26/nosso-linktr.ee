@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { text: "Tiktok", url: "https://www.tiktok.com/@bunker_dosdevs", icon: "bi-tiktok" },
         { text: "GitHub", url: "https://github.com/caslu26", icon: "bi-github" },
         { text: "Landing Page", url: "https://caslu26.github.io/land-page-empresa/", icon: "bi-window" },
-        {text: "TechNews - em breve", url:""}
+        {text: "Facebook", url:"https://www.facebook.com/profile.php?id=61565880064015", icon:"bi-facebook"}
     ];
 
     const linksContainer = document.getElementById("links");
